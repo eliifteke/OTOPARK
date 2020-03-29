@@ -1,0 +1,145 @@
+C:\Users\elift\Desktop\otopark - resimelr\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csprojAssemblyReference.cache
+C:\Users\elift\Desktop\otopark - resimelr\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Ana_Menü.resources
+C:\Users\elift\Desktop\otopark - resimelr\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.araccikis.resources
+C:\Users\elift\Desktop\otopark - resimelr\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.ekle.resources
+C:\Users\elift\Desktop\otopark - resimelr\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Form1.resources
+C:\Users\elift\Desktop\otopark - resimelr\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.gecmis.resources
+C:\Users\elift\Desktop\otopark - resimelr\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.konum.resources
+C:\Users\elift\Desktop\otopark - resimelr\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Kullanıcı_Girişi.resources
+C:\Users\elift\Desktop\otopark - resimelr\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csproj.GenerateResource.cache
+C:\Users\elift\Desktop\otopark - resimelr\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark Otomasyon Sistemi.exe
+C:\Users\elift\Desktop\otopark - resimelr\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark Otomasyon Sistemi.pdb
+C:\Users\elift\Desktop\otopark - resimelr\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.exe
+C:\Users\elift\Desktop\otopark - resimelr\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.pdb
+C:\Users\elift\Desktop\otopark - resimelr\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Properties.Resources.resources
+C:\Users\elift\Desktop\otopark - resimelr\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csproj.CoreCompileInputs.cache
+C:\Users\elift\Desktop\otopark\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.exe
+C:\Users\elift\Desktop\otopark\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.pdb
+C:\Users\elift\Desktop\otopark\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csprojAssemblyReference.cache
+C:\Users\elift\Desktop\otopark\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Ana_Menü.resources
+C:\Users\elift\Desktop\otopark\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.araccikis.resources
+C:\Users\elift\Desktop\otopark\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.ekle.resources
+C:\Users\elift\Desktop\otopark\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Form1.resources
+C:\Users\elift\Desktop\otopark\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.gecmis.resources
+C:\Users\elift\Desktop\otopark\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.konum.resources
+C:\Users\elift\Desktop\otopark\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Kullanıcı_Girişi.resources
+C:\Users\elift\Desktop\otopark\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Properties.Resources.resources
+C:\Users\elift\Desktop\otopark\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csproj.GenerateResource.cache
+C:\Users\elift\Desktop\otopark\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csproj.CoreCompileInputs.cache
+C:\Users\elift\Desktop\otopark\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark Otomasyon Sistemi.exe
+C:\Users\elift\Desktop\otopark\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark Otomasyon Sistemi.pdb
+C:\Users\elift\Desktop\otopark - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csprojAssemblyReference.cache
+C:\Users\elift\Desktop\otopark - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Ana_Menü.resources
+C:\Users\elift\Desktop\otopark - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.araccikis.resources
+C:\Users\elift\Desktop\otopark - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.ekle.resources
+C:\Users\elift\Desktop\otopark - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Form1.resources
+C:\Users\elift\Desktop\otopark - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.gecmis.resources
+C:\Users\elift\Desktop\otopark - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.konum.resources
+C:\Users\elift\Desktop\otopark - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Kullanıcı_Girişi.resources
+C:\Users\elift\Desktop\otopark - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Properties.Resources.resources
+C:\Users\elift\Desktop\otopark - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csproj.GenerateResource.cache
+C:\Users\elift\Desktop\otopark - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csproj.CoreCompileInputs.cache
+C:\Users\elift\Desktop\otopark - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark Otomasyon Sistemi.exe
+C:\Users\elift\Desktop\otopark - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark Otomasyon Sistemi.pdb
+C:\Users\elift\Desktop\otopark - Kopya (2)\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.exe
+C:\Users\elift\Desktop\otopark - Kopya (2)\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.pdb
+C:\Users\elift\Desktop\otopark - Kopya\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.exe.config
+C:\Users\elift\Desktop\otopark - Kopya\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.exe
+C:\Users\elift\Desktop\otopark - Kopya\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.pdb
+C:\Users\elift\Desktop\otopark - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csprojAssemblyReference.cache
+C:\Users\elift\Desktop\otopark - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Ana_Menü.resources
+C:\Users\elift\Desktop\otopark - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.araccikis.resources
+C:\Users\elift\Desktop\otopark - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.ekle.resources
+C:\Users\elift\Desktop\otopark - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Form1.resources
+C:\Users\elift\Desktop\otopark - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.gecmis.resources
+C:\Users\elift\Desktop\otopark - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.konum.resources
+C:\Users\elift\Desktop\otopark - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Kullanıcı_Girişi.resources
+C:\Users\elift\Desktop\otopark - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Properties.Resources.resources
+C:\Users\elift\Desktop\otopark - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csproj.GenerateResource.cache
+C:\Users\elift\Desktop\otopark - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csproj.CoreCompileInputs.cache
+C:\Users\elift\Desktop\otopark - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark Otomasyon Sistemi.exe
+C:\Users\elift\Desktop\otopark - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark Otomasyon Sistemi.pdb
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.exe.config
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.exe
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.pdb
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csprojAssemblyReference.cache
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Ana_Menü.resources
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.araccikis.resources
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.ekle.resources
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Form1.resources
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.gecmis.resources
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.konum.resources
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.kullanici.resources
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Kullanıcı_Girişi.resources
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Properties.Resources.resources
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.yonetici.resources
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csproj.GenerateResource.cache
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csproj.CoreCompileInputs.cache
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark Otomasyon Sistemi.exe
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark Otomasyon Sistemi.pdb
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.exe.config
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.exe
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.pdb
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csprojAssemblyReference.cache
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Ana_Menü.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.araccikis.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.ekle.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Form1.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.gecmis.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.konum.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.kullanici.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Kullanıcı_Girişi.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Properties.Resources.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.yonetici.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.yoneticimenü.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csproj.GenerateResource.cache
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csproj.CoreCompileInputs.cache
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark Otomasyon Sistemi.exe
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark Otomasyon Sistemi.pdb
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.personelekle.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya (2)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.yöneticiekle.resources
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.personelekle.resources
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.yoneticimenü.resources
+C:\Users\elift\Desktop\otopark(sql)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.yöneticiekle.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.exe.config
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.exe
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.pdb
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csprojAssemblyReference.cache
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Ana_Menü.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.araccikis.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.ekle.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Form1.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.gecmis.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.konum.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.kullanici.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Kullanıcı_Girişi.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.personelekle.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Properties.Resources.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.yonetici.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.yoneticimenü.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.yöneticiekle.resources
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csproj.GenerateResource.cache
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csproj.CoreCompileInputs.cache
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark Otomasyon Sistemi.exe
+C:\Users\elift\Desktop\otopark(sql) - Kopya\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark Otomasyon Sistemi.pdb
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.exe.config
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.exe
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\bin\Debug\OtoPark Otomasyon Sistemi.pdb
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csprojAssemblyReference.cache
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Ana_Menü.resources
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.araccikis.resources
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.ekle.resources
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Form1.resources
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.gecmis.resources
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.konum.resources
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.kullanici.resources
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Kullanıcı_Girişi.resources
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.personelekle.resources
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.Properties.Resources.resources
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.yonetici.resources
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.yoneticimenü.resources
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark_Otomasyon_Sistemi.yöneticiekle.resources
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csproj.GenerateResource.cache
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\otopark.csproj.CoreCompileInputs.cache
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark Otomasyon Sistemi.exe
+C:\Users\elift\Desktop\otopark(sql) (databaseyi sildim)\OtoPark Otomasyon Sistemi\obj\x86\Debug\OtoPark Otomasyon Sistemi.pdb
